@@ -3,9 +3,9 @@ export const personalInfo = {
   title: 'PCEP CERTIFIED Python Developer, Software Developer, Business Developer & AI Enthusiast',
   dob: '7th January, 1998',
   nationality: 'Indian',
-  address: 'Kolkata, West Bengal, India',
+  address: 'Dubai, United Arab Emirates',
   phone: {
-    whatsapp: '9123634893',
+    whatsapp: '+91 9123634893',
     call: '+971 54 302 4583',
   },
   emails: ['sabyasachi.arya@gmail.com', 'sabyasachi.techsaby@gmail.com'],
