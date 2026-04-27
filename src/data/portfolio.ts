@@ -209,7 +209,7 @@ export const projects = [
   {
     title: 'Personal AI Chat-bot with Gemini API',
     tech: ['Gemini API', 'Python Programming', 'Google API Libraries', 'Google AI Studio'],
-    description: 'A lightweight, stateful AI chatbot built with Python using the Google Gemini 2.5 Flash model.This project demonstrates how to implement conversational memory and system-level prompt engineering in a CLI application.',
+    description: 'A lightweight AI chatbot built with Python using the Google Gemini API, This project shows how to implement conversational memory and system-level prompt engineering in a CLI application.',
     features: ['Error Handling', 'Secure Authentication', 'System Instructions', 'Persistent Context'],
     link: 'https://github.com/sabyasachi-arya/AI-Chatbot-in-Python-with-Google-Gemini-API/blob/main/README.md',
   },
