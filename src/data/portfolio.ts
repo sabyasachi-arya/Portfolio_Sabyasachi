@@ -1,0 +1,217 @@
+export const personalInfo = {
+  name: 'Sabyasachi Bhattacharjee',
+  title: 'Python Developer, Business Developer & AI Enthusiast',
+  dob: '7th January, 1998',
+  nationality: 'Indian',
+  address: 'Kolkata, West Bengal, India',
+  phone: {
+    whatsapp: '9123634893',
+    call: '+971 54 302 4583',
+  },
+  emails: ['sabyasachi.arya@gmail.com', 'sabyasachi.techsaby@gmail.com'],
+  linkedin: 'https://linkedin.com/in/sabyasachi-bhattacharjee',
+  linkedinLabel: 'Sabyasachi Bhattacharjee',
+  github: 'https://github.com/sabyasachi-arya',
+  githubLabel: 'sabyasachi-arya',
+  image: '/WhatsApp_Image_2026-04-14_at_13.50.37.jpeg',
+  cv: '/UAE_CV_1.pdf',
+};
+
+export const summary = `Results-driven Business Development Manager and Python Programmer with a B.Tech in Computer Science. Expert in bridging technical software development and data analysis with strategic business growth, revenue optimization, and cost efficiency. Proven ability to boost profitability while maintaining high standards and strong client relations. A dedicated IT and AI enthusiast known for meticulous attention to detail and a collaborative work ethic. Seeking to drive organizational success and innovation.`;
+
+export const experiences = [
+  {
+    title: 'Business Development Manager & Production Manager',
+    company: 'RAJ INDIA OVERSEAS',
+    location: 'Kolkata, India',
+    period: 'July 2022 – September 2025',
+    highlights: [
+      {
+        label: 'Strategic Growth',
+        text: 'Driven by data analysis and market research, I scaled annual revenue by 40% and profitability by 30% through optimized production and cost management.',
+      },
+      {
+        label: 'Technology Operations',
+        text: "Development & constant upgradation of organization's website for smoother web operations, better customer experience with simpler UI, easy payment gateway, also led a team of intermediate developers & performed alongside to create multiple software beneficial to the company.",
+      },
+      {
+        label: 'Operational Transformation',
+        text: 'Implemented high-impact strategies and functional changes to maximize organizational performance and B2B/B2C efficiency.',
+      },
+      {
+        label: 'Foreign Operations',
+        text: 'Successfully handled export operations of the company with the clients of Several countries such as UAE, South Africa, Canada etc. by client management, expert communication, negotiations, customer support.',
+      },
+      {
+        label: 'Consulting Excellence',
+        text: 'Delivered expert management, tech, and finance consulting, significantly accelerating yearly growth rates via deep operational analysis.',
+      },
+    ],
+    skills: ['MS Office', 'Data Visualization', 'Data Management', 'Data Analysis', 'Python', 'MySQL', 'Web Development', 'Ecommerce', 'Business Analysis', 'Market Research', 'Relationship Management', 'Cost Management', 'Team Leadership'],
+  },
+  {
+    title: 'Data Executive & Product Controller',
+    company: 'RAJ INDIA OVERSEAS',
+    location: 'Kolkata, India',
+    period: 'September 2019 – June 2022',
+    highlights: [
+      {
+        label: 'Operational Oversight',
+        text: 'Managed technical processes and production facilities, leveraging data tracking to optimize quality, shipments, and profitability.',
+      },
+      {
+        label: 'Cost Optimization',
+        text: 'Scaled cost efficiency by reducing production and operational expenses while maintaining rigorous quality standards.',
+      },
+      {
+        label: 'Client Relations',
+        text: 'Directed B2B/B2C communications, managing complex order data, payments, and satisfaction metrics to ensure retention.',
+      },
+      {
+        label: 'Performance Management',
+        text: 'Streamlined record-keeping and financial reporting to drive informed decision-making and cross-functional teamwork.',
+      },
+    ],
+    skills: ['MS Office', 'Advanced Excel', 'Data Management', 'Customer Service', 'Team Leadership', 'Production Oversighting', 'Planning & Scheduling', 'Resource Management'],
+  },
+];
+
+export const education = [
+  {
+    degree: 'Bachelor of Technology in Computer Science',
+    institution: 'Seacom Engineering College',
+    university: 'Under WBUT (West Bengal University of Technology)',
+    year: 'June 2022',
+    grade: 'CGPA: 8.85 (84.26%)',
+    verified: true,
+  },
+  {
+    degree: 'Diploma in Computer Science Engineering',
+    institution: 'Swami Vivekanand University',
+    university: 'Sagar, Madhya Pradesh',
+    year: 'June 2019',
+    grade: 'CGPA: 6.87 (65.27%)',
+    verified: false,
+  },
+];
+
+export const certifications = [
+  {
+    title: 'Excel Skills Job Simulation',
+    issuer: 'JPMorgan Chase & Co.',
+    platform: 'Forage',
+    date: 'September 2024',
+    link: 'https://www.theforage.com/',
+  },
+  {
+    title: 'The Complete Python Course',
+    issuer: 'Codestars',
+    platform: 'Udemy',
+    date: 'May 2025',
+    link: 'https://www.udemy.com/',
+  },
+  {
+    title: 'PCEP™ – Certified Entry-Level Python Programmer',
+    issuer: 'Python Institute',
+    platform: 'PCEP-30-02',
+    date: 'July 2025',
+    link: 'https://pythoninstitute.org/',
+    score: '89 / 100',
+  },
+];
+
+export const skillCategories = [
+  {
+    category: 'Languages',
+    skills: [
+      { name: 'Python', level: 88 },
+      { name: 'SQL', level: 82 },
+      { name: 'HTML & CSS', level: 80 },
+    ],
+  },
+  {
+    category: 'Libraries & Tools',
+    skills: [
+      { name: 'Pandas', level: 85 },
+      { name: 'Flask', level: 75 },
+      { name: 'NumPy / Matplotlib', level: 78 },
+      { name: 'Git', level: 80 },
+      { name: 'Tkinter', level: 72 },
+      { name: 'Jinja2', level: 70 },
+    ],
+  },
+  {
+    category: 'Databases',
+    skills: [
+      { name: 'MySQL', level: 82 },
+      { name: 'PostgreSQL', level: 80 },
+      { name: 'MongoDB', level: 76 },
+    ],
+  },
+  {
+    category: 'Business & Analytics',
+    skills: [
+      { name: 'Business Development', level: 92 },
+      { name: 'Data Analysis', level: 88 },
+      { name: 'Advanced Excel', level: 90 },
+      { name: 'Market Research', level: 85 },
+      { name: 'Cost Management', level: 87 },
+    ],
+  },
+  {
+    category: 'Additional Skills',
+    skills: [
+      { name: 'API Development & Testing', level: 76 },
+      { name: 'Web Development', level: 78 },
+      { name: 'Software Development', level: 80 },
+      { name: 'Customer Support', level: 90 },
+      { name: 'Team Leadership', level: 88 },
+    ],
+  },
+];
+
+export const projects = [
+  {
+    title: 'Expense Tracker',
+    tech: ['Python', 'SQLite', 'Pandas', 'Matplotlib'],
+    description: 'Built a CLI tool for personal finance with CRUD operations and User Authentication. Uses SQLite for data persistence and generates reports via Pandas and Matplotlib.',
+    features: ['Data categorization', 'Error handling', 'Monthly spend analysis', 'CRUD & User Auth'],
+    link: 'https://github.com/sabyasachi-arya',
+  },
+  {
+    title: 'Automatic Email Sender',
+    tech: ['Python', 'SMTP'],
+    description: 'Automated email sending system using Python with scheduled delivery and custom templates.',
+    features: ['SMTP integration', 'Scheduled delivery', 'Custom templates'],
+    link: 'https://github.com/sabyasachi-arya',
+  },
+  {
+    title: 'Currency Converter',
+    tech: ['Python', 'REST API'],
+    description: 'Real-time currency converter using live exchange rates fetched from public financial APIs.',
+    features: ['Real-time exchange rates', 'API integration', 'Multi-currency support'],
+    link: 'https://github.com/sabyasachi-arya',
+  },
+];
+
+export const languages = [
+  {
+    name: 'English',
+    level: 'Advanced',
+    details: [
+      { label: 'IELTS Academic (2022)', score: '7 Band', breakdown: 'L:8 | R:7.5 | S:6.5 | W:6' },
+      { label: 'IELTS General (2025)', score: '7.5 Band', breakdown: 'L:8.5 | R:6.5 | S:6 | W:6' },
+      { label: 'CEFR Level', score: 'C1', breakdown: '' },
+    ],
+  },
+  {
+    name: 'Bengali',
+    level: 'Native',
+    details: [],
+  },
+  {
+    name: 'Hindi',
+    level: 'Advanced',
+    details: [],
+  },
+];
