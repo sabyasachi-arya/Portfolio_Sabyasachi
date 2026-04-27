@@ -9,7 +9,7 @@ export const personalInfo = {
     call: '+971 54 302 4583',
   },
   emails: ['sabyasachi.arya@gmail.com', 'sabyasachi.techsaby@gmail.com'],
-  linkedin: 'https://linkedin.com/in/sabyasachi-bhattacharjee',
+  linkedin: 'https://www.linkedin.com/in/sabyasachi-bhattacharjee-62b27032a/',
   linkedinLabel: 'Sabyasachi Bhattacharjee',
   github: 'https://github.com/sabyasachi-arya',
   githubLabel: 'sabyasachi-arya',
