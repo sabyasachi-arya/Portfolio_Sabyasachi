@@ -40,7 +40,7 @@ export default function Footer() {
           </div>
 
           <p className="text-[#64748b] text-xs flex items-center gap-1">
-            Built with <Heart size={12} className="text-[#00d4ff]" /> · {new Date().getFullYear()}
+            Built with Passion <Heart size={12} className="text-[#00d4ff]" /> · {new Date().getFullYear()}
           </p>
         </div>
       </div>
