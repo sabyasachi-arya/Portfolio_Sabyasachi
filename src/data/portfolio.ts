@@ -192,6 +192,13 @@ export const projects = [
     features: ['Real-time exchange rates', 'API integration', 'Multi-currency support'],
     link: 'https://currency-converter-techsaby.netlify.app/',
   },
+  {
+    title: 'PACMAN ARCADE GAME',
+    tech: ['JavaScript', 'HTML', 'CSS'],
+    description: 'That World Famous 80s Pac-Man game is reimagined and recreated, play anytime for free in both PC & Mobile',
+    features: ['Multiple Difficulty Modes', 'Free To Play', 'Smoother Game controls'],
+    link: 'https://pacmanbytechsaby.netlify.app/',
+  },
 ];
 
 export const languages = [
