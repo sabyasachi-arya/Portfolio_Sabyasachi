@@ -187,10 +187,10 @@ export const projects = [
   },
   {
     title: 'Currency Converter',
-    tech: ['Python', 'REST API'],
+    tech: ['Python', 'REST API', 'HTML', 'CSS'],
     description: 'Real-time currency converter using live exchange rates fetched from public financial APIs.',
     features: ['Real-time exchange rates', 'API integration', 'Multi-currency support'],
-    link: 'https://github.com/sabyasachi-arya',
+    link: 'https://currency-converter-techsaby.netlify.app/',
   },
 ];
 
