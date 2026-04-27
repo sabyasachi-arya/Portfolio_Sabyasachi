@@ -183,7 +183,7 @@ export const projects = [
     tech: ['Python', 'SMTP'],
     description: 'Automated email sending system using Python with scheduled delivery and custom templates.',
     features: ['SMTP integration', 'Scheduled delivery', 'Custom templates'],
-    link: 'https://github.com/sabyasachi-arya',
+    link: 'https://github.com/sabyasachi-arya/Python-Projects/blob/main/sending_emails/main_code.py',
   },
   {
     title: 'Currency Converter',
