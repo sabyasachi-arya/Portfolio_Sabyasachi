@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: 'Sabyasachi Bhattacharjee',
-  title: 'Python Developer, Business Developer & AI Enthusiast',
+  title: 'PCEP CERTIFIED Python Developer, Software Developer, Business Developer & AI Enthusiast',
   dob: '7th January, 1998',
   nationality: 'Indian',
   address: 'Kolkata, West Bengal, India',
@@ -11,7 +11,7 @@ export const personalInfo = {
   emails: ['sabyasachi.arya@gmail.com', 'sabyasachi.techsaby@gmail.com'],
   linkedin: 'https://www.linkedin.com/in/sabyasachi-bhattacharjee-62b27032a/',
   linkedinLabel: 'Sabyasachi Bhattacharjee',
-  github: 'https://github.com/sabyasachi-arya',
+  github: 'https://github.com/sabyasachi-arya?tab=repositories',
   githubLabel: 'sabyasachi-arya',
   image: '/WhatsApp_Image_2026-04-14_at_13.50.37.jpeg',
   cv: '/UAE_CV_1.pdf',
