@@ -193,12 +193,19 @@ export const projects = [
     link: 'https://currency-converter-techsaby.netlify.app/',
   },
   {
-    title: 'PACMAN ARCADE GAME',
+    title: 'Pac-Man Arcade Game',
     tech: ['JavaScript', 'HTML', 'CSS'],
     description: 'That World Famous 80s Pac-Man game is reimagined and recreated, play anytime for free in both PC & Mobile',
     features: ['Multiple Difficulty Modes', 'Free To Play', 'Smoother Game controls'],
     link: 'https://pacmanbytechsaby.netlify.app/',
   },
+  {
+    title: 'Score Calculator(CGPA/SGPA/GPA -> %) With User Data integration',
+    tech: ['JavaScript', 'HTML', 'CSS', 'Data Sheet Integration', 'Google Sheets', 'Google App Script API', 'Google API Libraries'],
+    description: 'Production Ready Score Calculator(CGPA/SGPA/GPA -> %) With User Data integration, where user data will be stored inside a data sheet integrated through Google API',
+    features: ['Easy Result Score Calculations', 'Dark & Light Mode', 'Data Management', 'Data Sheet Integration'],
+    link: 'https://scorecalculatorbytechsaby.netlify.app/',
+  }
 ];
 
 export const languages = [
