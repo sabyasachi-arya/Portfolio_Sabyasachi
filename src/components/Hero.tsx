@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { Github, Linkedin, Mail, Phone, Download, ChevronDown } from 'lucide-react';
 import { personalInfo } from '../data/portfolio';
 
-const titleWords = ['Python Developer', 'Business Developer', 'AI Enthusiast'];
+const titleWords = ['PCEP Certified Python Developer', 'Software Developer', 'Business Developer', 'AI Enthusiast'];
 
 export default function Hero() {
   const [displayText, setDisplayText] = useState('');
