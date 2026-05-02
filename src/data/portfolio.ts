@@ -17,7 +17,7 @@ export const personalInfo = {
   cv: '/UAE_CV_1.pdf',
 };
 
-export const summary = `Results-driven Business Development Manager and Python Programmer with a B.Tech in Computer Science. Expert in bridging technical software development and data analysis with strategic business growth, revenue optimization, and cost efficiency. Proven ability to boost profitability while maintaining high standards and strong client relations. A dedicated IT and AI enthusiast known for meticulous attention to detail and a collaborative work ethic. Seeking to drive organizational success and innovation.`;
+export const summary = `Results-driven PCEP Certified Python Programmer, Software & Web Developer and Business Development Manager with a B.Tech in Computer Science. Expert in bridging technical software development and data analysis with strategic business growth, revenue optimization, and cost efficiency. Proven ability to boost profitability while maintaining high standards and strong client relations. A dedicated IT and AI enthusiast known for meticulous attention to detail and a collaborative work ethic. Seeking to drive organizational success and innovation.`;
 
 export const experiences = [
   {
