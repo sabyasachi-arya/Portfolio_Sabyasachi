@@ -78,7 +78,7 @@ export default function Hero() {
 
           <p className="text-[#64748b] text-base leading-relaxed max-w-xl mb-8 animate-fade-in-up" style={{ animationDelay: '0.3s' }}>
             B.Tech Computer Science | Results-driven professional bridging technology and business growth.
-            Based in Kolkata, India. Open to global opportunities.
+            Based in Dubai, United Arab Emirates. Open to global opportunities.
           </p>
 
           <div className="flex flex-wrap gap-4 mb-10 animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
