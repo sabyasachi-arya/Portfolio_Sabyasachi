@@ -213,6 +213,13 @@ export const projects = [
     features: ['Error Handling', 'Secure Authentication', 'System Instructions', 'Persistent Context'],
     link: 'https://github.com/sabyasachi-arya/AI-Chatbot-in-Python-with-Google-Gemini-API/blob/main/README.md',
   },
+  {
+    title: 'All in one Trade Diary Backtest Manager',
+    tech: ['Python', 'PyQt6', 'Pandas', 'OpenPyXL', 'Matplotlib', 'PyInstaller', 'Excel Automation', 'Desktop App', 'Data Visualisation'],
+    description: 'Offline Windows app for traders to log & analyze backtests. Built with Python/PyQt6, it syncs live with Excel (no imports). Features a Matplotlib dashboard with interactive charts, date picking, and filtering. Standalone .exe via PyInstaller.',
+    features: ['Easy Trade logging', 'Easy to add, edit, or remove log', 'Data analysis', 'All in one Software for Data Management & Oversighting'],
+    link: 'https://github.com/sabyasachi-arya/trade-diary-back-test-manager',
+  }
 ];
 
 export const languages = [
