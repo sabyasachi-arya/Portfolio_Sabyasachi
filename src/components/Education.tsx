@@ -1,4 +1,4 @@
-import { GraduationCap, Award, CheckCircle, ExternalLink, Terminal} from 'lucide-react';
+import { GraduationCap, Award, CheckCircle} from 'lucide-react';
 import { education, certifications } from '../data/portfolio';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
@@ -31,16 +31,6 @@ export default function Education() {
                   Verified by WES
                 </span>
               </h3>
-              <div className="flex items-center gap-2">
-                    
-                  <a
-                      href={project.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-[#64748b] hover:text-[#00d4ff] transition-colors"
-                      title="View Project"
-                    >
-                      <ExternalLink size={16} />
 
               <div className="space-y-6 relative">
                 <div className="absolute left-4 top-2 bottom-2 w-px bg-gradient-to-b from-[#00d4ff]/50 to-transparent" />
