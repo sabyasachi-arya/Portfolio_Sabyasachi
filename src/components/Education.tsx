@@ -1,4 +1,4 @@
-import { GraduationCap, Award, CheckCircle } from 'lucide-react';
+import { GraduationCap, Award, CheckCircle, ExternalLink} from 'lucide-react';
 import { education, certifications } from '../data/portfolio';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
