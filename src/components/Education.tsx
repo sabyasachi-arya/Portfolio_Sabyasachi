@@ -27,9 +27,15 @@ export default function Education() {
                   <GraduationCap size={18} className="text-[#00d4ff]" />
                 </div>
                 Academic Qualifications
-                <span className="text-xs text-[#00d4ff] border border-[#00d4ff]/30 px-2 py-0.5 rounded-full bg-[#00d4ff]/5 ml-auto">
-                  Verified by WES
-                </span>
+                <a 
+                href="https://www.credly.com/badges/7c51ba77-63c3-4929-b986-763b93dd3c4e" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-xs text-[#00d4ff] border border-[#00d4ff]/30 px-2 py-0.5 rounded-full bg-[#00d4ff]/5 ml-auto"
+                style={{ textDecoration: 'none' }}
+                >
+                Verified by WES
+                </a>
               </h3>
 
               <div className="space-y-6 relative">
