@@ -83,8 +83,7 @@ export const education = [
     university: 'Under WBUT (West Bengal University of Technology)',
     year: 'June 2022',
     grade: 'CGPA: 8.85 (84.26%)',
-    verified: true,
-    link: 'https://www.credly.com/badges/7c51ba77-63c3-4929-b986-763b93dd3c4e',
+    verified: true
   },
   {
     degree: 'Diploma in Computer Science Engineering',
@@ -92,8 +91,7 @@ export const education = [
     university: 'Sagar, Madhya Pradesh',
     year: 'June 2019',
     grade: 'CGPA: 6.87 (65.27%)',
-    verified: true,
-    link: 'https://www.credly.com/badges/7c51ba77-63c3-4929-b986-763b93dd3c4e'
+    verified: true
   },
 ];
 
