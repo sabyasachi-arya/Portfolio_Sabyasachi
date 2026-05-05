@@ -104,6 +104,35 @@ export const experiences = [
     ],
     skills: ['MS Office', 'Advanced Excel', 'Data Management', 'Customer Service', 'Team Leadership', 'Production Oversighting', 'Planning & Scheduling', 'Resource Management'],
   },
+  {
+    title: 'Junior Web Developer & Graphic Designer(Intership)',
+    company: 'ACCENTRIC',
+    location: 'Kolkata, India',
+    period: 'July 2018 – July 2019',
+    highlights: [
+      {
+        label: 'Web Development & ERP Management',
+        text: 'Developed client websites for universities and businesses using WordPress, HTML, CSS, and PHP; managed and optimized ERP systems to streamline organizational workflows.',
+      },
+      {
+        label: 'Digital Content & Motion Graphics',
+        text: 'Engineered 2D/3D animation models and high-fidelity video content using 3ds Max, Blender, Premiere Pro, and After Effects for studios and animation industries.',
+      },
+      {
+        label: 'Visual Branding & Design',
+        text: 'Designed professional logos and digital marketing assets utilizing Photoshop, CorelDRAW, and Lightroom to enhance brand identity and advertising impact.',
+      },
+      {
+        label: 'Data Operations',
+        text: 'Orchestrated high-volume data entry and document management using MS Office (Excel, PowerPoint); developed technical presentations and data sheets for large-scale institutes.',
+      },
+      {
+        label: 'Strategic Intern Leadership',
+        text: 'Rapidly integrated advanced web tools and design software to deliver client-ready solutions, demonstrating versatility across technical development, creative design, and administrative operations.',
+      },
+    ],
+    skills: ['Graphic Designer', 'Website Development', 'WordPress', 'HTML', 'CSS', 'PHP', 'MS Office', 'ERP Systems Management', 'Digital Marketing', 'Adobe Premiere Pro', 'After Effects', '3D Modeling', 'Blender'],
+  },
 ];
 
 export const education = [
