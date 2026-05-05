@@ -31,6 +31,36 @@ export const experiences = [
         text: 'Engineered custom software and web applications using Python (Pandas, NumPy), PHP, and TypeScript; designed intuitive UIs and integrated SQL databases to streamline client data workflows.',
       },
       {
+        label: 'DevOps & Automation',
+        text: "Orchestrated DevOps lifecycles by automating deployments and patches via Python, GitHub, PowerShell; executed system-wide upgrades and maintained backend stability through rigorous Root Cause Analysis (RCA).",
+      },
+      {
+        label: 'Global Operations',
+        text: 'Managed high-level technical outsourcing and operations for clients in the USA, UAE, Canada, and Australia, ensuring seamless cross-border communication and service delivery.',
+      },
+      {
+        label: 'Security & Infrastructure',
+        text: 'Strengthened security frameworks by implementing Multi-Factor Authentication (MFA) across company and client platforms; monitored and mentored junior developers to maintain technical standards.',
+      },
+      {
+        label: 'Operational Transformation',
+        text: 'Drove organizational efficiency by bridging technical gaps, upgrading legacy systems, and implementing high-impact functional changes for B2B/B2C success.',
+      },
+      
+    ],
+    skills: ['Python', 'DevOps', 'Pandas', 'NumPy', 'MySQL', 'Web Development', 'Matplotlib', 'Full stack development', 'Web applications development', 'JavaScripts', 'TypeScripts', 'Troubleshooting', 'PostgreSQL', 'PHP', 'Team Leadership', 'Workflow Enhancement', 'Database Management'],
+  },
+  {
+    title: 'Business Development Manager & Production Manager',
+    company: 'RAJ INDIA OVERSEAS',
+    location: 'Kolkata, India',
+    period: 'July 2022 – September 2025',
+    highlights: [
+      {
+        label: 'Strategic Growth',
+        text: 'Driven by data analysis and market research, I scaled annual revenue by 40% and profitability by 30% through optimized production and cost management.',
+      },
+      {
         label: 'Technology Operations',
         text: "Development & constant upgradation of organization's website for smoother web operations, better customer experience with simpler UI, easy payment gateway, also led a team of intermediate developers & performed alongside to create multiple software beneficial to the company.",
       },
@@ -48,35 +78,6 @@ export const experiences = [
       },
     ],
     skills: ['MS Office', 'Data Visualization', 'Data Management', 'Data Analysis', 'Python', 'MySQL', 'Web Development', 'Ecommerce', 'Business Analysis', 'Market Research', 'Relationship Management', 'Cost Management', 'Team Leadership'],
-  },
-  {
-    title: 'Business Development Manager & Production Manager',
-    company: 'RAJ INDIA OVERSEAS',
-    location: 'Kolkata, India',
-    period: 'July 2022 – September 2025',
-    highlights: [
-      {
-        label: 'Strategic Growth',
-        text: 'Driven by data analysis and market research, I scaled annual revenue by 40% and profitability by 30% through optimized production and cost management.',
-      },
-      {
-        label: 'DevOps & Automation',
-        text: "Orchestrated DevOps lifecycles by automating deployments and patches via Python, GitHub, PowerShell; executed system-wide upgrades and maintained backend stability through rigorous Root Cause Analysis (RCA).",
-      },
-      {
-        label: 'Global Operations',
-        text: 'Managed high-level technical outsourcing and operations for clients in the USA, UAE, Canada, and Australia, ensuring seamless cross-border communication and service delivery.',
-      },
-      {
-        label: 'Security & Infrastructure',
-        text: 'Strengthened security frameworks by implementing Multi-Factor Authentication (MFA) across company and client platforms; monitored and mentored junior developers to maintain technical standards.',
-      },
-      {
-        label: 'Operational Transformation',
-        text: 'Drove organizational efficiency by bridging technical gaps, upgrading legacy systems, and implementing high-impact functional changes for B2B/B2C success.',
-      },
-    ],
-    skills: ['Python', 'DevOps', 'Pandas', 'NumPy', 'MySQL', 'Web Development', 'Matplotlib', 'Full stack development', 'Web applications development', 'JavaScripts', 'TypeScripts', 'Troubleshooting', 'PostgreSQL', 'PHP', 'Team Leadership', 'Workflow Enhancement', 'Database Management'],
   },
   {
     title: 'Data Executive & Product Controller',
