@@ -48,7 +48,7 @@ export const experiences = [
       },
       
     ],
-    skills: ['Python', 'DevOps', 'Pandas', 'NumPy', 'MySQL', 'Web Development', 'Matplotlib', 'Full stack development', 'Web applications development', 'JavaScripts', 'TypeScripts', 'Troubleshooting', 'PostgreSQL', 'PHP', 'Team Leadership', 'Workflow Enhancement', 'Database Management'],
+    skills: ['Python', 'DevOps', 'Pandas', 'NumPy', 'MySQL', 'GitHub', 'Web Development', 'Matplotlib', 'Full stack development', 'Web applications development', 'JavaScripts', 'TypeScripts', 'Troubleshooting', 'PostgreSQL', 'PHP', 'Team Leadership', 'Workflow Enhancement', 'Database Management'],
   },
   {
     title: 'Business Development Manager & Production Manager',
