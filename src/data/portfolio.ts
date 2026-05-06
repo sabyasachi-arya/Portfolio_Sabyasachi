@@ -240,8 +240,7 @@ export const projects = [
   {
     title: 'Job Application Tracker',
     tech: ['Python', 'Tkinter', 'OpenPyXL', 'Excel Automation', 'PyInstaller', 'Excel sheet integration', 'Desktop App'],
-    description: 'A Windows desktop app built with Python that lets you manage job applications connected live to an Excel file. Features include date-based search, analytics dashboard, and direct row editing, no import/export needed.
-',
+    description: 'A Windows desktop app built with Python that lets you manage job applications connected live to an Excel file. Features include date-based search, analytics dashboard, and direct row editing, no import/export needed.',
     features: ['Easy Job Application Details logging', 'Easy to add, edit, or remove log', 'Easy Tracking', 'date-based search', 'analytics dashboard', 'direct row editing', 'no import/export needed.'],
     link: 'https://github.com/sabyasachi-arya/trade-diary-back-test-manager',
   },
