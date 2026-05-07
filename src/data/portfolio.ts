@@ -22,9 +22,9 @@ export const summary = `Results-driven PCEP Certified Python Programmer, Softwar
 export const experiences = [
   {
     title: 'Senior IT Support Consultant',
-    company: 'NEXTGEN ENTRADE PRIVATE LIMITED',
+    company: 'NEXTGEN ENTRADE',
     location: 'Kolkata, India',
-    period: 'September 2025 – April 2025',
+    period: 'September 2025 – April 2026',
     highlights: [
       {
         label: 'Full-Stack Development',
